@@ -3,7 +3,7 @@
 //Add 2 Numbers - Endpoint
 //endpoints configured to complete Mini Challenge # 2 
 //from the Coding Combine.
-//peer review: 
+//peer review: jasmine leek: Code works! and does what challenge requires!
 
 
 using Microsoft.AspNetCore.Mvc;
